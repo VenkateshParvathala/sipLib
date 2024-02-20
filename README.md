@@ -1,4 +1,5 @@
-# sipLib - Speech Information Processing Library (With python)
+# sipLib
+##Speech Information Processing Library (with python)
 
 ### Requirements
 The following libraries/packages are required
